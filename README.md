@@ -1,11 +1,11 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Nguyễn Đăng Lịch 👋
 
 I'm a fourth-year student at Hanoi University of Science and Technology, pursuing my Bachelor's degree in [Your Field of Study]. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🎓 Currently studying [Your Field of Study] at Hanoi University of Science and Technology.
-- 💻 Passionate about [Your Interests].
+- 🎓 Currently studying Control Engineering and Automation at Hanoi University of Science and Technology.
+- 💻 Passionate about coding.
 - 🌱 Constantly learning and exploring new technologies.
 - ✨ Enjoy collaborating on open source projects.
 
@@ -21,14 +21,14 @@ Feel free to explore my repositories to see more of my projects.
 
 ## Skills
 
-- Programming languages: [List of Programming Languages].
-- Technologies and frameworks: [List of Technologies and Frameworks].
-- Tools and software: [List of Tools and Software].
+- Programming languages: Java , Javascript , C, C++
+- Technologies and frameworks: Spring, MySQL , React , MongooDB , Nodejs.. ..
+- Tools and software:Eclipse , AWS , VScode ,...
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+- LinkedIn: https://www.linkedin.com/in/l%E1%BB%8Bch-nguy%E1%BB%85n-%C4%91%C4%83ng-465393220/
+- Email: nguyendanglich30@gmail.com
 
 I'm always open to interesting projects and collaborations, so feel free to reach out!
 
