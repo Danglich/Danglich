@@ -13,9 +13,8 @@ I'm a fourth-year student at Hanoi University of Science and Technology, pursuin
 
 Here are a few notable projects I've been working on:
 
-- [Project 1](https://github.com/Danglich/bantra_be_java): A website that sells tea (BE).
-- [Project 2](link-to-project-2): Brief description of the project.
-- [Project 3](link-to-project-3): Brief description of the project.
+- [Bán trà](https://github.com/Danglich/bantra_be_java): A website that sells tea (BE).
+- [Tiktok clone](https://github.com/Danglich/tiktok-server): A website that allows viewing and sharing of videos (BE).
 
 Feel free to explore my repositories to see more of my projects.
 
